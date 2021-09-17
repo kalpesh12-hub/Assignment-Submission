@@ -1,0 +1,13 @@
+Compiler:
+1.It translates the entire program at once.
+2.Its execution is faster.
+3.It takes more time to compile the code.
+4.All the errors show once at the end of the compilation.
+5.Java, C++ and C uses a compiler.
+
+Interpreter:
+1.It translates the code instruction by instruction.
+2.Its execution is slower.
+3.Its compile time is less.
+4.It compiles the program until an error is found
+5.Python,PHP uses a compiler
