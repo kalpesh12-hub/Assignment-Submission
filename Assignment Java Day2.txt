@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class addition
+{  
+  public static void main(String args[])
+  {  
+    Scanner sc = new Scanner(System.in);
+      System.out.println("Please enter value 1:");
+      int a1 = sc.nextInt();
+       System.out.println("Please enter value 2:");
+       int a2 = sc.nextInt();
+      int c = a1+a2; 
+       System.out.println("Addition of value is:" +c);
+     
+  } 
+}
+
+output:
+Please enter value 1:
+>>>10
+Please enter value 2:
+>>>30
+Addition of value is:40
+
+
+Process Finished.
+>>>
